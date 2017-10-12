@@ -1,0 +1,13 @@
+References
+
+    Udacity's Data Analyst Nanodegree material and forums
+    Wikipedia
+    OpenStreetMap's wiki: https://wiki.openstreetmap.org/
+    MapZen: https://mapzen.com/
+    Google Maps
+    http://www.ufpr.br/portalufpr/campi/
+    https://thiagorodrigo.com.br/artigo/cep-brasil-lista-de-cep-por-estados-capitais-e-interior/
+    http://gastronomiadescomplicada.blogspot.com.br/2011/09/cenario-gastronomico-curitibano.html
+    Google Maps API documentation: https://developers.google.com/maps/documentation/geocoding/intro?hl=en-us
+    http://www.educacao.curitiba.pr.gov.br/conteudo/localizacao-dona-bertha-centro-municipal-de-educacao-infantil-/2718
+

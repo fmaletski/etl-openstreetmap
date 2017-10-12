@@ -1,0 +1,5 @@
+https://www.openstreetmap.org/relation/297514
+
+MapZen file: https://s3.amazonaws.com/mapzen.odes/ex_eAGW5zLXGHx6F61DQCWq5DyWKMwop.osm.bz2
+
+The purpose to this project is to audit and improve the data of my current hometown, Curitiba, capital of the state of Paraná, in Brazil.
